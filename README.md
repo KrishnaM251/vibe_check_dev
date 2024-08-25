@@ -3,7 +3,7 @@
 ## Installation
 `pip install -r requirements.txt`
 
-You MUST manually obtain MMLU (because it was too large to push to github >:( )
+You MUST manually obtain MMLU because it was too large to push to github >:(
 
 ```
 wget https://people.eecs.berkeley.edu/~hendrycks/data.tar
