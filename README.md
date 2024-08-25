@@ -1,4 +1,4 @@
-## Hi LiSA!!
+## Hi Lisa!
 
 ## Installation
 `pip install -r requirements.txt`
